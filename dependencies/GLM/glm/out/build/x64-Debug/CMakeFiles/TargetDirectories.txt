@@ -1,0 +1,2 @@
+E:/Users/phili/Documents/Coding/C++/opengl/OpenGL-practice/dependencies/GLM/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/Users/phili/Documents/Coding/C++/opengl/OpenGL-practice/dependencies/GLM/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
